@@ -4,3 +4,4 @@ git add -A  ####Adds everything in the directory
 git status ####Shows changes to be committed
 git commit -m "Added all files from directory" ######Creates a notation of changes made
 git push ######Push changes to the server
+git pull ######Pull files -or- changes from the server
